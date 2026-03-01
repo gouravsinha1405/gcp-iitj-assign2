@@ -8,8 +8,6 @@ Terraform code and documentation for a Google Cloud deployment using:
 - IAM bindings for restricted access
 
 ## Repository contents
-- [docs/REPORT.md](docs/REPORT.md)
-- [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 - [terraform/main.tf](terraform/main.tf)
 - [terraform/variables.tf](terraform/variables.tf)
 - [terraform/versions.tf](terraform/versions.tf)

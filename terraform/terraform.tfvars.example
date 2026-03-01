@@ -1,0 +1,14 @@
+# Copy to terraform.tfvars and fill values.
+
+project_id       = "YOUR_PROJECT_ID"
+admin_user_email = "your.email@gmail.com"
+
+# Strongly suggested: restrict SSH to your public IP
+# allowed_ssh_cidr = "X.X.X.X/32"
+
+# Optional overrides
+# region      = "asia-south1"
+# zone        = "asia-south1-a"
+# min_replicas = 1
+# max_replicas = 3
+# cpu_target   = 0.6
